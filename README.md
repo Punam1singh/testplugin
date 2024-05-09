@@ -1,2 +1,2 @@
 # testplugin
-plugin
+ test plugin
